@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"ey/testutil"
+	"eiyaro/testutil"
 )
 
 func TestRPCCallJSON(t *testing.T) {

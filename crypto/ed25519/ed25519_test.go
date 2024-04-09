@@ -15,7 +15,7 @@ import (
 	"strings"
 	"testing"
 
-	"ey/crypto/ed25519/internal/edwards25519"
+	"eiyaro/crypto/ed25519/internal/edwards25519"
 )
 
 type zeroReader struct{}

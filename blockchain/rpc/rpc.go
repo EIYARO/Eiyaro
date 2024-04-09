@@ -11,9 +11,9 @@ import (
 	"strings"
 	"time"
 
-	"ey/errors"
-	"ey/net/http/httperror"
-	"ey/net/http/reqid"
+	"eiyaro/errors"
+	"eiyaro/net/http/httperror"
+	"eiyaro/net/http/reqid"
 )
 
 // Eiyaro-specific header fields

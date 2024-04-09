@@ -28,11 +28,11 @@ http://api.eiyaro.com/net-info
 ```
 
 ```bash
-$ git clone https://github.com/Eiyaro/ey.git $GOPATH/src/eiyaro/ey
-$ cd $GOPATH/src/eiyaro/ey
-$ go mod tidy
-$ cd /src/eiyaro/ey/cmd/eiyarod
-$ go build
+$ git clone https://github.com/Eiyaro/ey.git $GOPATH/src/github.com/eiyaro
+$ cd $GOPATH/src/github.com/eiyaro
+$ make eiyarod    
+$ make eiyarocli  
+$ cd ./cmd/eiyarod
 $ ./eiyarod init --chain_id mainnet
 $ nohup ./eiyarod node --web.closed &
 ```

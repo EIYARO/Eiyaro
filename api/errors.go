@@ -3,17 +3,17 @@ package api
 import (
 	"context"
 
-	"ey/account"
-	"ey/asset"
-	"ey/blockchain/pseudohsm"
-	"ey/blockchain/rpc"
-	"ey/blockchain/signers"
-	"ey/blockchain/txbuilder"
-	"ey/errors"
-	"ey/net/http/httperror"
-	"ey/net/http/httpjson"
-	"ey/protocol/validation"
-	"ey/protocol/vm"
+	"eiyaro/account"
+	"eiyaro/asset"
+	"eiyaro/blockchain/pseudohsm"
+	"eiyaro/blockchain/rpc"
+	"eiyaro/blockchain/signers"
+	"eiyaro/blockchain/txbuilder"
+	"eiyaro/errors"
+	"eiyaro/net/http/httperror"
+	"eiyaro/net/http/httpjson"
+	"eiyaro/protocol/validation"
+	"eiyaro/protocol/vm"
 )
 
 var (

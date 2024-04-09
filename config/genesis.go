@@ -5,9 +5,9 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"ey/consensus"
-	"ey/protocol/bc"
-	"ey/protocol/bc/types"
+	"eiyaro/consensus"
+	"eiyaro/protocol/bc"
+	"eiyaro/protocol/bc/types"
 )
 
 func GenesisTx() *types.Tx {

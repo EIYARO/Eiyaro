@@ -10,7 +10,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"ey/crypto/ed25519"
+	"eiyaro/crypto/ed25519"
 )
 
 var (

@@ -6,8 +6,8 @@ import (
 	"crypto/sha512"
 	"io"
 
-	"ey/crypto/ed25519"
-	"ey/crypto/ed25519/ecmath"
+	"eiyaro/crypto/ed25519"
+	"eiyaro/crypto/ed25519/ecmath"
 )
 
 type (

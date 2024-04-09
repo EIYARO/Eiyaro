@@ -6,12 +6,12 @@ import (
 	"runtime"
 	"sync"
 
-	"ey/consensus"
-	"ey/consensus/segwit"
-	"ey/errors"
-	"ey/math/checked"
-	"ey/protocol/bc"
-	"ey/protocol/vm"
+	"eiyaro/consensus"
+	"eiyaro/consensus/segwit"
+	"eiyaro/errors"
+	"eiyaro/math/checked"
+	"eiyaro/protocol/bc"
+	"eiyaro/protocol/vm"
 )
 
 const ruleAA = 142500

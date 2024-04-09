@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"strings"
 
-	"ey/common/bech32"
-	"ey/consensus"
+	"eiyaro/common/bech32"
+	"eiyaro/consensus"
 )
 
 var (

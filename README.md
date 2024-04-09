@@ -1,6 +1,6 @@
 Eiyaro
 
-[![Build Status](https://travis-ci.org/Eiyaro/e.svg)](https://travis-ci.org/Eiyaro/ey) [![AGPL v3](https://img.shields.io/badge/license-AGPL%20v3-brightgreen.svg)](./LICENSE)
+
 
 **Official golang implementation of the Eiyaro protocol.**
 
@@ -12,4 +12,4 @@ The goal of the EIYARO project is to create a blockchain ecosystem with a wide r
 
 
 
-[AGPL v3](./LICENSE)
+
